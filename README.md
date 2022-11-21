@@ -1,5 +1,8 @@
 # Animated and Interactive Graphics
 
+## Link to App: 
+https://kdougherty.shinyapps.io/Interactive_Graphics_App/
+
 ## Instructions
 
 Use the [TidyTuesday Cocktail Data](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-05-26/readme.md) to create a shiny applet containing the following:
